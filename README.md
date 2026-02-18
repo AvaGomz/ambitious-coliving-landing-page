@@ -7,7 +7,6 @@ What I practiced:
 - CSS Grid basics
 - Section structuring
 - Clean UI design
-- Responsive thinking
 
 Project Goal:
 To create a modern landing page for a Bay Area coliving concept focused on ambitious young professionals.
